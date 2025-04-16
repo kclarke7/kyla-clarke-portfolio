@@ -292,7 +292,7 @@ section{
 
 .section-container{
     gap: 4rem;
-    height: 80%;
+    height: 100%;
 }
 
 .section__pic-container{
@@ -321,9 +321,9 @@ section{
 
 .article-container{
     display: flex;
-    text-align: initial;
-    flex-wrap: wrap;
-    flex-direction: row;
+    text-align:initial;
+    flex-wrap:wrap; 
+    flex-direction:row;
     gap: 2.5rem;
     justify-content: space-around;
 }
