@@ -40,7 +40,7 @@
     }
 }
 
-@media screen and (max-width:600px){
+@media screen and (max-width:768px){
     #contact, footer{
         height: 40vh;
     }
@@ -95,7 +95,7 @@
     .text-container{
         text-align: justify;
     }
-} 
+}
 
 /*adjusting photo size to optimize for Ipad/Tablet screens*/
 @media screen and (min-width: 768px) and (max-width: 1112px) { 
